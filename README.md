@@ -1,16 +1,27 @@
 ### Hi there 👋
+### I'm a self-taught Full-Stack Developer.
 
-<!--
-**vishalx360/vishalx360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a Social Media Application for my portfolio.
+- 🌱 I’m currently learning the MERN stack.
+- 👯 I’m looking to collaborate on Hackathon Project.
+- 💬 Ask me about Code, Coffee, Cosmos or Philosophy
+- 🥈 Won Data-Day-Grind Hackathon by MLH.io
+- 📫 How to reach me: DM me on twitter.
+- 😄 Pronouns: He
 
-Here are some ideas to get you started:
+### 📜 Took Havard CS50x Course.
+#### learned Concepts like
+-   Algorithms, Data structures, Abstraction.
+-   Encapsulation, Resource Management & Security.
+-   C, Python, SQL & Javascript Programming Languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👥 Participating in Google Code-In program since 2018.
+#### Worked on big open-source organization's public repositories which are used by thousands of people around the globe.
+#### learned Concepts like:
+- Software Testing.
+- Team-work Collaboration.
+- open-source contribution.
+- Building Documentations.
+- Continuous Integration and Continuous Deployment
+
+### Feel Free To take a look at My Projects. 👍
