@@ -1,9 +1,9 @@
-![Header Poster](./header_poster.png)
+![Header Poster](https://raw.githubusercontent.com/vishalx360/vishalx360/master/header_poster.png)
 <p align="center">
-    <img alt="mongoDB"src="./icons/mongoDB.svg">
-    <img alt="react"src="./icons/express.svg">
-    <img alt="react"src="./icons/react.svg">
-    <img alt="react"src="./icons/node.svg">
+    <img alt="mongoDB"src="https://raw.githubusercontent.com/vishalx360/vishalx360/master/icons/mongoDB.svg">
+    <img alt="express"src="https://raw.githubusercontent.com/vishalx360/vishalx360/master/icons/express.svg">
+    <img alt="react"src="https://raw.githubusercontent.com/vishalx360/vishalx360/master/icons/react.svg">
+    <img alt="node"src="https://raw.githubusercontent.com/vishalx360/vishalx360/master/icons/node.svg">
 </p>
 
 ### Hi there 👋
@@ -16,6 +16,6 @@
 - 📫 How to reach me: DM me on twitter.
 - 😄 Pronouns: He
 
-### ![gci](icons/harv.png) Took Havard's CS50x Course.
-### ![gci](icons/gci-logo16x16.png) Participating in Google Code-In Open-Source Contribution program since 2018.
+### ![cs50](https://raw.githubusercontent.com/vishalx360/vishalx360/master/icons/harv.png) Took Havard's CS50x Course.
+### ![gci](https://raw.githubusercontent.com/vishalx360/vishalx360/master/icons/gci-logo16x16.png) Participating in Google Code-In Open-Source Contribution program since 2018.
 ### Feel Free To take a look at My Projects. 👍
