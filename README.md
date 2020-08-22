@@ -1,3 +1,11 @@
+![Header Poster](./header_poster.png)
+<p align="center">
+    <img alt="mongoDB"src="./icons/mongoDB.svg">
+    <img alt="react"src="./icons/express.svg">
+    <img alt="react"src="./icons/react.svg">
+    <img alt="react"src="./icons/node.svg">
+</p>
+
 ### Hi there 👋
 ### I'm a self-taught Full-Stack (MERN) Developer.
 
@@ -8,19 +16,6 @@
 - 📫 How to reach me: DM me on twitter.
 - 😄 Pronouns: He
 
-### 📜 Took Havard CS50x Course.
-#### learned Concepts like
--   Algorithms, Data structures, Abstraction.
--   Encapsulation, Resource Management & Security.
--   C, Python, SQL & Javascript Programming Languages.
-
-### 👥 Participating in Google Code-In program since 2018.
-#### Worked on big open-source organization's public repositories which are used by thousands of people around the globe.
-#### learned Concepts like:
-- Software Testing.
-- Team-work Collaboration.
-- open-source contribution.
-- Building Documentations.
-- Continuous Integration and Continuous Deployment
-
+### ![gci](icons/harv.png) Took Havard's CS50x Course.
+### ![gci](icons/gci-logo16x16.png) Participating in Google Code-In Open-Source Contribution program since 2018.
 ### Feel Free To take a look at My Projects. 👍
