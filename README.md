@@ -9,7 +9,7 @@
 ### Hi there 👋
 ### I'm a self-taught Full-Stack (MERN) Developer.
 
-- 🔭 I’m currently working on a Social Media Application for my portfolio.
+- 🔭 I’m currently building projects for my portfolio.
 - 👯 I’m looking to collaborate on Hackathon Project.
 - 💬 Ask me about Code, Coffee, Cosmos or Philosophy
 - 🥈 Won Data-Day-Grind Hackathon by MLH.io
