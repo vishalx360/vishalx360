@@ -12,10 +12,16 @@
 - 🔭 I’m currently building projects for my portfolio.
 - 👯 I’m looking to collaborate on Hackathon Project.
 - 💬 Ask me about Code, Coffee, Cosmos or Philosophy
-- 🥈 Won Data-Day-Grind Hackathon by MLH.io
-- 📫 How to reach me: DM me on twitter.
+- 🥈 Won in 8 Hackathon so far.
+- 📫 How to reach me: <a href="mailto:vishalx360@gmail.com">email</a> me or DM me on twitter.
 - 😄 Pronouns: He
 
 ### ![cs50](https://raw.githubusercontent.com/vishalx360/vishalx360/master/icons/harv.png) Took Havard's CS50x Course.
-### ![gci](https://raw.githubusercontent.com/vishalx360/vishalx360/master/icons/gci-logo16x16.png) Participating in Google Code-In Open-Source Contribution program since 2018.
-### Feel Free To take a look at My Projects. 👍
+### ![gci](https://raw.githubusercontent.com/vishalx360/vishalx360/master/icons/gci-logo16x16.png) Participated in Google Code-In 2018 Open-Source Contribution program.
+### 👍 Feel Free To take a look at My Projects. 
+<p >
+  <a href="mailto:vishalx360@gmail.com">Email</a> •
+  <a href="https://vishalx360.github.io/">Website</a> •
+  <a href="https://github.com/vishalx360/">GitHub</a> •
+  <a href="https://www.linkedin.com/in/vishalx360/">Linkedin</a>
+</p>
