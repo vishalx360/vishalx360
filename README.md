@@ -64,26 +64,6 @@ I’m a Software Engineer specialising in building **fast, reliable, and engagin
 
 ---
 
-### 📂 Featured Projects  
-
-Here are a few selected projects I’ve built — check out the source code, live demos, and feel free to remix something awesome.
-
-- 🧭 **[Taskflow](https://github.com/vishalx360/taskflow)**  
-  A drag-and-drop task-management web-app built with the **T3 stack** (Next.js, tRPC, Prisma, Tailwind).  
-  Features real-time sync and WebAuthn-based passkey authentication.
-
-- 🎬 **[VideoFolio](https://videofolio.vishalx360.dev)**  
-  Generates a **video résumé** from a PDF by extracting key highlights and creating a shareable slideshow.  
-  Built with TypeScript, FFmpeg, and Node.js backend integration.
-
-- 🧩 **[InForm](https://github.com/vishalx360/inform)**  
-  A lightweight tool to create, distribute, and analyze forms quickly — built to empower non-technical creators.  
-  Features live analytics, custom themes, and export options.
-
-➡️ More projects available on my [Rposiotries Page](https://github.com/vishalx360?tab=repositories) and [Portfolio](https://www.vishalx360.dev).
-
----
-
 ### 🤝 Let’s Connect  
 <p>
   <a href="mailto:vishalx360@gmail.com" target="_blank">📧 Email</a>  
