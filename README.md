@@ -81,7 +81,8 @@ Here are a few selected projects I’ve built — check out the source code, liv
 </p>  
 I’m always open to collaboration, interesting conversations and new opportunities—if you like what you see, let’s build something amazing together.
 
----### 📊 GitHub Stats  
+---
+### 📊 GitHub Stats  
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalx360&show_icons=true&theme=radical&hide_border=true" alt="Vishal Kumar's GitHub Stats"/>
