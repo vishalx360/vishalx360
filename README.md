@@ -1,67 +1,94 @@
 ![Header Poster](./header_poster.png)
 
-<h2>Hi there 👋, I am Vishal Kumar</h2>
-<p>I'm a self-taught Full-Stack (MERN) Developer with a passion for coding, innovation, and exploration.</p>
-<!-- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalx360&show_icons=true&theme=radical">
-</p> -->
-<h3>About Me</h3>
-<!-- <p>  
-  <img src="https://komarev.com/ghpvc/?username=vishalx360&color=green">
-</p> -->
-<ul>
-  <li><b>🔭 Currently, Looking for SDE Internship/Fulltime Role.</b></li>
-  <li>👯 I love collaborating on Hackathon Projects, where innovative ideas come to life.</li>
-  <li>💬 Ask me about Code, Coffee, Cosmos, or Philosophy - I'm always up for intriguing discussions.</li>
-  <li>🥈 Proud winner of 8 Hackathons by MLH.io, showcasing my dedication to creative problem-solving.</li>
-  <li>📫 How to reach me: Feel free to DM me on Twitter.</li>
-</ul>
-<h3>Let's Connect</h3>
-<p>I'm always open to connect and collaborate. Let's build something amazing together!</p>
-<p>
-  <a href="mailto:vishalx360@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/vishalx360" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://vishalx360.dev" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://twitter.com/vishalx360" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-</p>
-<h3>Tech Stack</h3>
-<p>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-  <img src="https://shields.io/badge/express-black?logo=express&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-  <!-- ... (Include the rest of your badges here) -->
-</p>
-<p>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
-  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/-Figma-pink?style=flat-square&logo=figma&logoColor=white">
-</p>
-<h3>My Achievements</h3>
-<p>
-  <img src="icons/harv.png" alt="Harvard CS50x">
-  <span>Took Harvard's CS50x Course</span>
-</p>
-<p>
-  <img src="icons/gci-logo16x16.png" alt="Google Code-In">
-  <span>Participated in Google Code-In Open-Source Contribution program since 2018</span>
-</p>
-<h3>Projects</h3>
-<p>Feel free to take a look at my projects. Your feedback is highly appreciated! 👍</p>
-<p>
-  <!-- Insert your project showcases here -->
+<h2>Hi there 👋, I’m Vishal Kumar</h2>
+
+<p>I’m a Software Engineer specialising in building **fast, reliable, and engaging software systems and infrastructure**. I thrive at the intersection of platform engineering, backend development and full-stack delivery.</p>
+
+---
+
+### 👨‍💻 About Me  
+
+- 🧠 **Software Engineer – Platform Services at [Atlan](https://atlan.com)** (since Nov 2024)  
+  Building internal tooling, developer workflows, and scalable infrastructure.  
+- ⚡ **Previously:** Backend Engineer at [OpeninApp – Listed Inc.](https://www.openinapp.com) (Feb – Nov 2024)  
+  Led key backend features and optimized system performance.  
+- ☁️ **Before that:** Intern at **Relecture**, managing end-to-end software lifecycle & serverless migration.  
+- 🏆 **Hackathon Nerd:** 30+ global hackathons, 8 wins — including *Best Use of Google Cloud* and *Best Browser Extension*.  
+- 🌏 Based in **Bangalore, India** | Passionate about open-source, reliability, and building for scale.  
+
+---
+### 🛠 Tech & Platform Focus
+
+#### 🧩 Platform / Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ArgoCD-000000?style=flat-square&logo=argocd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Temporal-E535AB?style=flat-square&logo=temporal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Dapr-0082C9?style=flat-square&logo=dapr&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalx360&layout=compact&theme=radical">
+#### ⚙️ Backend / Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalx360&theme=radical">
+
+#### 💻 Full-Stack / Web
+<p align="left">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </p>
+
+---
+
+### 📂 Featured Projects  
+
+Here are a few selected projects I’ve built — check out the source code, live demos, and feel free to remix something awesome.
+
+- 🧭 **[Taskflow](https://github.com/vishalx360/taskflow)**  
+  A drag-and-drop task-management web-app built with the **T3 stack** (Next.js, tRPC, Prisma, Tailwind).  
+  Features real-time sync and WebAuthn-based passkey authentication.
+
+- 🎬 **[VideoFolio](https://videofolio.vishalx360.dev)**  
+  Generates a **video résumé** from a PDF by extracting key highlights and creating a shareable slideshow.  
+  Built with TypeScript, FFmpeg, and Node.js backend integration.
+
+- 🧩 **[InForm](https://github.com/vishalx360/inform)**  
+  A lightweight tool to create, distribute, and analyze forms quickly — built to empower non-technical creators.  
+  Features live analytics, custom themes, and export options.
+
+➡️ More projects available on my [Rposiotries Page](https://github.com/vishalx360?tab=repositories) and [Portfolio](https://www.vishalx360.dev).
+
+---
+
+### 🤝 Let’s Connect  
+<p>
+  <a href="mailto:vishalx360@gmail.com" target="_blank">📧 Email</a>  
+  <a href="https://linkedin.com/in/vishalx360" target="_blank">🔗 LinkedIn</a>  
+  <a href="https://twitter.com/vishalx360" target="_blank">🐦 Twitter</a>  
+  <a href="https://vishalx360.dev" target="_blank">📁 Portfolio</a>  
+</p>  
+I’m always open to collaboration, interesting conversations and new opportunities—if you like what you see, let’s build something amazing together.
+
+---### 📊 GitHub Stats  
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalx360&show_icons=true&theme=radical&hide_border=true" alt="Vishal Kumar's GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalx360&theme=radical&hide_border=true" alt="Vishal Kumar's GitHub Streak"/>
+</p>
+
+
+---
+
+*Thanks for stopping by — keep building, keep learning.*
