@@ -8,13 +8,25 @@ I’m a Software Engineer specialising in building **fast, reliable, and engagin
 
 ### 👨‍💻 About Me  
 
-- 🧠 **Software Engineer – Platform Services at [Atlan](https://atlan.com)** (since Nov 2024)  
-  Building internal tooling, developer workflows, and scalable infrastructure.  
-- ⚡ **Previously:** Backend Engineer at [OpeninApp – Listed Inc.](https://www.openinapp.com) (Feb – Nov 2024)  
-  Led key backend features and optimized system performance.  
-- ☁️ **Before that:** Intern at **Relecture**, managing end-to-end software lifecycle & serverless migration.  
-- 🏆 **Hackathon Nerd:** 30+ global hackathons, 8 wins — including *Best Use of Google Cloud* and *Best Browser Extension*.  
-- 🌏 Based in **Bangalore, India** | Passionate about open-source, reliability, and building for scale.  
+- 🧠 **Software Engineer – Platform at [Atlan](https://atlan.com)** (Nov 2024 – Present)  
+  Part of the **Platform Services** team, building developer tooling, internal infrastructure, and CI/CD pipelines with **Kubernetes**, **ArgoCD**, **Temporal**, and **Dapr** to improve reliability and developer productivity.  
+
+- ⚡ **Previously at [OpeninApp – Listed Inc.](https://openinapp.com)** (Feb 2024 – Nov 2024)  
+  Led development of large-scale backend features and optimized systems for high-volume creator analytics.  
+
+- 🧩 **Freelance Full-Stack Developer at Itelcotech** (Jul 2023 – Dec 2023)  
+  Designed a Learning Management System with **Sanity CMS** and analytics for telecom education.  
+
+- 🚀 **Founding Software Engineer at Relecture** (Apr 2021 – Apr 2023)  
+  Owned end-to-end architecture — from backend APIs to AWS infrastructure — for an early-stage EdTech startup.  
+
+- 🌍 **Open-Source Developer at Google Code-In** (2018)  
+  Contributed to open-source projects in code, documentation, and UI design under mentor guidance.  
+
+- 🏆 **Hackathon Enthusiast:** 30 + global hackathons, 8 wins 🏅 — including *Best Use of Google Cloud* and *Best Browser Extension*.  
+
+- 🌏 Based in **Bangalore, India** | Passionate about **developer tooling**, **distributed systems**, and **open-source infrastructure**.
+
 
 ---
 ### 🛠 Tech & Platform Focus
