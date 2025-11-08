@@ -2,7 +2,7 @@
 
 <h2>Hi there 👋, I’m Vishal Kumar</h2>
 
-<p>I’m a Software Engineer specialising in building **fast, reliable, and engaging software systems and infrastructure**. I thrive at the intersection of platform engineering, backend development and full-stack delivery.</p>
+I’m a Software Engineer specialising in building **fast, reliable, and engaging software systems and infrastructure**. I thrive at the intersection of platform engineering, backend development and full-stack delivery.
 
 ---
 
