@@ -2,31 +2,48 @@
 
 <h2>Hi there 👋, I’m Vishal Kumar</h2>
 
-I’m a Software Engineer specialising in building **fast, reliable, and engaging software systems and infrastructure**. I thrive at the intersection of platform engineering, backend development and full-stack delivery.
+I’m a Software Engineer building **the foundations reliable AI runs on** — backend systems and internal platforms that reduce operational complexity, improve reliability, and help teams ship with confidence. I thrive at the intersection of platform engineering, distributed systems and backend delivery.
 
 ---
 
 ### 👨‍💻 About Me  
 
-- 🧠 **Software Engineer – Platform at [Atlan](https://atlan.com)** (Nov 2024 – Present)  
-  Part of the **Platform Services** team, building developer tooling, internal infrastructure, and CI/CD pipelines with **Kubernetes**, **ArgoCD**, **Temporal**, and **Dapr** to improve reliability and developer productivity.  
+- 🧠 **Software Engineer II – Platform at [kAIgentic](https://kaigentic.com)** (Sep 2026 – Present)  
+  Part of the **Platform** team, building the foundations reliable AI runs on.  
 
-- ⚡ **Previously at [OpeninApp – Listed Inc.](https://openinapp.com)** (Feb 2024 – Nov 2024)  
-  Led development of large-scale backend features and optimized systems for high-volume creator analytics.  
+- ⚡ **Previously Software Engineer – Platform at [Atlan](https://atlan.com)** (Nov 2024 – Jun 2026)  
+  Part of **Platform Services**, owning infrastructure, developer tooling and production reliability for a data collaboration platform serving enterprises globally.  
+  - Designed and built **Blackbird**, a declarative config-management system in **Go + Temporal** with scheduled drift detection and idempotent remediation across **800–1,000 customer tenant clusters** — 20–30 services now use it as their config source of truth, and config-drift P0 outages were eliminated.  
+  - Migrated **600+ production tenants** to **CloudNativePG** with zero data loss and zero downtime.  
+  - Productionized **Temporal** workflows for database backups, state remediation and background services, replacing legacy Argo processes.  
+  - Owned production on-call across core services and built a **Claude Code plugin** for early incident RCA.  
 
-- 🧩 **Freelance Full-Stack Developer at Itelcotech** (Jul 2023 – Dec 2023)  
-  Designed a Learning Management System with **Sanity CMS** and analytics for telecom education.  
+- 🛰️ **Backend Engineer at [OpeninApp](https://openinapp.com)** (Feb 2024 – Nov 2024)  
+  Served **1–5 million daily hits** on a smart-link redirection platform; moved analytics off the OLTP MySQL database into an AWS Kinesis → S3 Parquet → Glue → Athena pipeline, and added **RabbitMQ** async jobs and **Redis** caching.  
+
+- 🧩 **Freelance Backend Engineer at Itelcotech** (Jul 2023 – Dec 2023)  
+  Designed the backend for a telecom learning platform — multi-tenant access, course commerce, Stripe payments, and an on-demand AWS lab control plane with minute-level metering.  
 
 - 🚀 **Founding Software Engineer at Relecture** (Apr 2021 – Apr 2023)  
-  Owned end-to-end architecture — from backend APIs to AWS infrastructure — for an early-stage EdTech startup.  
+  First and sole engineer for two years: built the product from scratch, cut AWS costs by **80%** with a serverless architecture, and hired and onboarded two engineers.  
 
-- 🌍 **Open-Source Developer at Google Code-In** (2018)  
-  Contributed to open-source projects in code, documentation, and UI design under mentor guidance.  
+- 🎓 **B.Tech in Computer Science Engineering**, NSHM Knowledge Campus Durgapur (2020 – 2024)  
+
+- 🌍 **Google Code-in** open-source contributor (2018 – 2019)  
 
 - 🏆 **Hackathon Enthusiast:** 30 + global hackathons, 8 wins 🏅 — including *Best Use of Google Cloud* and *Best Browser Extension*.  
 
-- 🌏 Based in **Bangalore, India** | Passionate about **developer tooling**, **distributed systems**, and **open-source infrastructure**.
+- 🌏 Based in **Bengaluru, India** | Passionate about **developer tooling**, **distributed systems**, and **open-source infrastructure**.
 
+
+---
+### 🚧 Selected Work
+
+- **[Teleport](https://github.com/vishalx360/teleport)** — event-driven delivery backend: transactional outbox + Kafka, durable driver matching with Temporal, Redis geo-discovery. ([live](https://teleport.vishalx360.dev))
+- **[Taskflow](https://github.com/vishalx360/taskflow-space)** — collaborative workspaces with RBAC, rank-ordered tasks, and passkey auth on tRPC + Prisma. ([live](https://taskflow.vishalx360.dev))
+- **[Itelcotech](https://itelcotech.com)** — multi-tenant commerce and cloud-lab orchestration for a production telecom learning platform.
+
+More at **[vishalx360.dev](https://vishalx360.dev)**.
 
 ---
 ### 🛠 Tech & Platform Focus
@@ -34,10 +51,13 @@ I’m a Software Engineer specialising in building **fast, reliable, and engagin
 #### 🧩 Platform / Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ArgoCD-000000?style=flat-square&logo=argocd&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Temporal-E535AB?style=flat-square&logo=temporal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ArgoCD-000000?style=flat-square&logo=argocd&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Dapr-0082C9?style=flat-square&logo=dapr&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
@@ -47,9 +67,10 @@ I’m a Software Engineer specialising in building **fast, reliable, and engagin
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
 </p>
 
 #### 💻 Full-Stack / Web
@@ -77,7 +98,6 @@ I’m always open to collaboration, interesting conversations and new opportunit
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalx360&show_icons=true&theme=radical&hide_border=true" alt="Vishal Kumar's GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalx360&theme=radical&hide_border=true" alt="Vishal Kumar's GitHub Streak"/>
 </p>
 
